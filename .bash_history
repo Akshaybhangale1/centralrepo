@@ -32,3 +32,5 @@ cd .ssh
 sudo su
 cd ..
 sudo su
+suod su
+sudo su
